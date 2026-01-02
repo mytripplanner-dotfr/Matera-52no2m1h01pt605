@@ -1,0 +1,156 @@
+{
+  "pays": "Italie",
+  "drapeau": "🇮🇹",
+  "symbole": "🏛️",
+  "titre": "Évasion relaxante dans les Sassi de Matera",
+  "budget_total": "770€",
+  "duree": "4 jours",
+  "temps_vol": "2h25 depuis Paris, france",
+  "escale": "0",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et premières impressions des Sassi",
+      "legende": "Après votre vol et un court transfert, plongez directement dans l'atmosphère unique de Matera. Flânez dans les ruelles labyrinthiques des Sassi Barisano, laissez-vous imprégner par l'histoire millénaire de cette ville troglodytique et savourez votre premier dîner typiquement lucanien. Une journée douce pour une immersion en douceur.",
+      "lieu": "Matera",
+      "activites": [
+        "<strong>🛬 Arrivée à Bari et transfert vers Matera</strong>: Atterrissage à l'aéroport de Bari, suivi d'un transfert confortable en bus ou train jusqu'à Matera, porte d'entrée des Pouilles.",
+        "<strong>🛏️ Installation à l'hôtel troglodytique</strong>: Prenez possession de votre chambre, souvent nichée dans une ancienne grotte, pour une expérience authentique et relaxante.",
+        "<strong>🚶‍♂️ Première balade dans les Sassi Barisano</strong>: Découvrez les premières merveilles de Matera en vous perdant dans les ruelles pavées et les escaliers des Sassi Barisano, le quartier le plus ancien et le plus restauré."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "Transfert Bari-Matera",
+          "texte": "Des bus directs relient l'aéroport de Bari à Matera en environ 1h, offrant un moyen de transport pratique et économique."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🗿",
+      "titre": "Immersion au cœur des Sassi et églises rupestres",
+      "legende": "Explorez les profondeurs des Sassi Caveoso, découvrez la vie d'antan dans une maison-grotte et laissez-vous émerveiller par les fresques des églises rupestres. Une journée riche en découvertes culturelles et historiques, ponctuée de pauses gourmandes et de panoramas à couper le souffle.",
+      "lieu": "Matera",
+      "activites": [
+        "<strong>🚶‍♀️ Exploration des Sassi Caveoso</strong>: Plongez dans le quartier le plus ancien et le plus évocateur de Matera, avec ses habitations creusées dans la roche et ses vues spectaculaires.",
+        "<strong>🏠 Visite d'une Casa Grotta</strong>: Découvrez le mode de vie traditionnel des habitants des Sassi en visitant une maison-grotte aménagée, comme la Casa Grotta di Vico Solitario.",
+        "<strong>⛪ Découverte des églises rupestres</strong>: Admirez les fresques millénaires des églises creusées dans la roche, telles que Santa Lucia alle Malve ou San Pietro Barisano, témoins d'une foi ancestrale."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Sassi di Matera",
+          "categorie": "Quartier historique",
+          "coords": { "lat": 40.6667, "lng": 16.6075 }
+        },
+        {
+          "nom_recherche": "Casa Grotta di Vico Solitario, Matera",
+          "categorie": "Musée",
+          "coords": { "lat": 40.6629, "lng": 16.6071 }
+        },
+        {
+          "nom_recherche": "Chiesa di Santa Lucia alle Malve, Matera",
+          "categorie": "Église rupestre",
+          "coords": { "lat": 40.6655, "lng": 16.6087 }
+        }
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Conseil de visite",
+          "texte": "Portez des chaussures confortables, les rues des Sassi sont pavées et parfois escarpées. Prévoyez de l'eau, surtout en saison chaude."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🏞️",
+      "titre": "Panoramas de la Murgia et détente",
+      "legende": "Évadez-vous de l'agitation urbaine pour une balade douce dans le Parco della Murgia Materana, offrant des vues imprenables sur les Sassi. Profitez de l'après-midi pour vous détendre, explorer les boutiques d'artisanat local ou simplement savourer un café en terrasse, imprégné de la sérénité des lieux.",
+      "lieu": "Matera",
+      "activites": [
+        "<strong>🚶‍♂️ Randonnée légère au Parco della Murgia Materana</strong>: Traversez le canyon de la Gravina pour atteindre le parc, d'où vous profiterez des vues les plus emblématiques sur Matera et ses grottes préhistoriques.",
+        "<strong>📸 Admiration du Belvedere di Matera</strong>: Capturez des clichés inoubliables depuis ce point de vue privilégié, offrant un panorama complet sur les deux Sassi.",
+        "<strong>🛍️ Détente et artisanat local</strong>: Flânez dans les rues de Matera, découvrez les ateliers d'artisans locaux et offrez-vous un souvenir unique de votre voyage."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Parco della Murgia Materana, Matera",
+          "categorie": "Parc naturel",
+          "coords": { "lat": 40.6670, "lng": 16.6200 }
+        },
+        {
+          "nom_recherche": "Belvedere di Matera",
+          "categorie": "Point de vue",
+          "coords": { "lat": 40.6670, "lng": 16.6200 }
+        }
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "🌿",
+          "titre": "Nature et histoire",
+          "texte": "Le Parco della Murgia Materana est un site archéologique et naturel, abritant des centaines de grottes et d'églises rupestres, certaines datant du Paléolithique."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "🛫",
+      "titre": "Derniers instants et départ",
+      "legende": "Profitez de vos dernières heures à Matera pour une ultime immersion culturelle ou pour quelques emplettes. Visitez le MUSMA, musée de la sculpture contemporaine, avant de reprendre le chemin de l'aéroport. Emportez avec vous les souvenirs inoubliables de cette ville hors du temps.",
+      "lieu": "Matera",
+      "activites": [
+        "<strong>🖼️ Visite du MUSMA - Museo della Scultura Contemporanea</strong>: Explorez ce musée unique, installé dans le Palazzo Pomarici, qui allie art contemporain et architecture troglodytique.",
+        "<strong>🎁 Achats de souvenirs et dernières flâneries</strong>: Profitez-en pour acheter des produits locaux comme le pain de Matera, des céramiques ou des objets en pierre.",
+        "<strong>🛫 Transfert vers Bari et vol retour</strong>: Reprenez le bus vers l'aéroport de Bari pour votre vol de retour vers Paris, la tête pleine de merveilleux souvenirs."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "MUSMA - Museo della Scultura Contemporanea di Matera",
+          "categorie": "Musée",
+          "coords": { "lat": 40.6645, "lng": 16.6078 }
+        },
+        {
+          "nom_recherche": "Matera Centrale",
+          "categorie": "Gare routière/ferroviaire",
+          "coords": { "lat": 40.6667, "lng": 16.6050 }
+        }
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "🥖",
+          "titre": "Spécialité locale",
+          "texte": "Ne partez pas sans goûter le célèbre \"Pane di Matera\", un pain traditionnel à la croûte croustillante et à la mie moelleuse, reconnu IGP."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "175 €/pers (A/R Paris-Bari)", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "~35 €/pers (transferts Bari-Matera A/R, local)", "symbole": "🚆" },
+    { "titre": "Budget repas:", "legende": "~350 €/pers (4 jours, budget moyen)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "~150 €/pers (3 nuits, base chambre double 3* à 100€/nuit)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "~60 €/pers (entrées musées, églises)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Avril à Juin", "symbole": "🌸" },
+    { "titre": "Septembre à Octobre", "symbole": "🍂" }
+  ],
+  "infos_pratiques": [
+    { "titre": "En octobre, les températures à Matera varient entre 10 et 20°C. Prévoir des couches de vêtements et des chaussures confortables pour la marche.", "symbole": "🍁" },
+    { "titre": "La monnaie est l'Euro (€). Les cartes de crédit sont largement acceptées, mais un peu d'argent liquide est utile pour les petits commerces ou marchés.", "symbole": "💳" },
+    { "titre": "Matera se découvre principalement à pied. Pour les transferts depuis Bari, les bus sont le moyen le plus simple et économique. Pas besoin de voiture sur place.", "symbole": "🚶‍♀️" },
+    { "titre": "Le Wi-Fi est généralement disponible dans les hôtels et de nombreux cafés. Une carte SIM locale ou une eSIM peut être utile pour la navigation hors ligne.", "symbole": "📶" }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol Paris-Bari", "url": "https://www.kayak.fr/flights/CDG-BRI/2026-10-15/2026-10-19", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Tourisme Matera", "url": "https://www.basilicataturistica.it/en/matera/", "symbole": "📘" },
+    { "legende": "Horaires des transports", "titre": "Bus Bari-Matera (Autolinee Marozzi)", "url": "https://www.marozzivt.it/en/bari-matera/", "symbole": "🚌" },
+    { "legende": "Météo", "titre": "Météo Matera", "url": "https://www.accuweather.com/fr/it/matera/213508/weather-forecast/213508", "symbole": "🌤️" }
+  ]
+}
